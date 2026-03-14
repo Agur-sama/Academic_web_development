@@ -1,7 +1,8 @@
 # ADR: Наш предварительный стек:
-```bash 
+```bash
 -Python 
--JS  (React) 
+-JS (React)
+-Tailwind CSS 
 -Git/GitHub
 -Docker/Kubernetes
 -FastAPI
